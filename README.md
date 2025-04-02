@@ -4,7 +4,7 @@ Project Description
 
 DashML Interactive is a web-based application built using Dash and Plotly. It allows users to upload datasets, apply machine learning models, and visualize results in real-time. The application provides an interactive interface for easy data analysis and model evaluation.
 
-Features
+Features:
 
 Upload datasets for analysis
 
@@ -14,7 +14,7 @@ Visualize results using interactive graphs
 
 Real-time updates and interactive UI
 
-Tech Stack
+Tech Stack:
 
 Python
 
@@ -30,7 +30,7 @@ Keras
 
 Pandas
 
-Installation & Setup
+Installation & Setup:
 
 Prerequisites
 
@@ -38,7 +38,7 @@ Ensure you have Python installed (Python 3.7+ recommended). Install the required
 
 pip install dash dash-uploader plotly flask pandas scikit-learn keras numpy
 
-Running the Project
+Running the Project:
 
 Clone this repository:
 
